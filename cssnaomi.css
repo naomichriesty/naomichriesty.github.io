@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,400&family=Montserrat&family=Raleway&display=swap');
+h2 	{font-family: 'Raleway', sans-serif;}
+p 	{font-family: 'Josefin Sans', sans-serif;}
+h4 	{font-family: 'Raleway', sans-serif;}
+i 	{font-family: 'Josefin Sans', sans-serif;}
+li 	{font-family: 'Josefin Sans', sans-serif;}
+a 	{font-family: 'Raleway', sans-serif;}
+h3 	{font-family: 'Montserrat', sans-serif;}
+.jumbotron {
+	background-color:#dec2cb;
+	padding-top:7rem;
+	}
+.btn {
+	background-color:#b4c8ea;
+}
+.card {
+	background-color:#ffdcdb;
+}
